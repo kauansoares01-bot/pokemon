@@ -8,3 +8,8 @@ body{
 main{
     max-width: 90%;
 }
+butto{
+    background-color: aqua;
+    color: aliceblue;
+    padding: 10px;
+}
