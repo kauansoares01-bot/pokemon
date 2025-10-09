@@ -13,3 +13,9 @@ button{
     color: aliceblue;
     padding: 10px;
 }
+.passo{
+    display: nome;
+}
+.passo.ativo{
+    display: block;
+}
