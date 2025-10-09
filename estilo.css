@@ -14,7 +14,7 @@ button{
     padding: 10px;
 }
 .passo{
-    display: nome;
+    display: none;
 }
 .passo.ativo{
     display: block;
