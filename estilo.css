@@ -9,7 +9,7 @@ main{
     max-width: 90%;
 }
 button{
-    background-color: aqua;
+    background-color: rgb(1, 18, 18);
     color: aliceblue;
     padding: 10px;
 }
