@@ -8,4 +8,4 @@ avanca.forEach(button.eddEventListener('click',function(){
         atual.classList.remove('ativo')
     document.getElementById(proximoPasso).classList.add('ativo')
 })
-})
+)
